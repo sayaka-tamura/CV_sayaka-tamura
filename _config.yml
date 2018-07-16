@@ -11,7 +11,7 @@ title:            Sayaka Tamura
 tagline:          'CV'
 description:      'Software developer'
 url:              "https://sayaka-tamura.github.io"
-baseurl:          "/CV_sayaka-tamura/"
+baseurl:          "/CV_sayaka-tamura"
 
 author:
   name:           'Sayaka Tamura'
