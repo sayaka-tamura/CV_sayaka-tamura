@@ -1,0 +1,32 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+# relative_permalinks: true
+
+# Setup
+title:            Sayaka Tamura
+tagline:          'CV'
+description:      'Software developer'
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Sayaka Tamura'
+  url:            https://twitter.com/satttiiin
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/sayaka-tamura
+
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - pygments.rb
+  - redcarpet
