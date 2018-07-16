@@ -10,8 +10,8 @@ permalink:        pretty
 title:            Sayaka Tamura
 tagline:          'CV'
 description:      'Software developer'
-url:              http://hyde.getpoole.com
-baseurl:          /
+url:              "https://sayaka-tamura.github.io/CV_sayaka-tamura/"
+baseurl:          "/CV_sayaka-tamura/"
 
 author:
   name:           'Sayaka Tamura'
